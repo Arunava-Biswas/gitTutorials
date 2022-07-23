@@ -1,0 +1,12 @@
+This is a .md file (Markdown language file)
+
+A MARKDOWN file is a text file created using one of several dialects of the Markdown language. It uses plain text format but also contains in line text symbols which specify how to format the text (e.g., bold,italics, indentation, headers, etc). It is a lightweight scripting language.
+
+Markdowns are rapidly used in content writing in many websites, blog posts. Some popular repository providers like GitHub, GitLab, and bitbucket use the readme.md file as a file descriptor.
+
+Process is:
+
+Open any text editor or notepad.
+Create a new file from — →file →new file.
+Save the file as Readme.md or any suitable name with .md extension.
+Your file is created.
